@@ -1,6 +1,3 @@
-### Hi there 👋
-
-<!--
 
 # Hi there, I'm Eulene Vulegani 👋
 
@@ -35,4 +32,4 @@ I'm always open to connecting with fellow data enthusiasts, AI enthusiasts, or a
 Let's learn, explore, and innovate together! 😄
 ```
 
--->
+
