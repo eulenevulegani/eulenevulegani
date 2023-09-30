@@ -1,5 +1,5 @@
 
-# Hi there, I'm Eulene Vulegani 👋
+#### Hi there, I'm Eulene Vulegani 👋
 
 Welcome to my GitHub profile! I'm an aspiring data scientist with a deep passion for artificial intelligence and machine learning. I'm constantly learning and exploring the world of data to uncover insights and build intelligent systems.
 
