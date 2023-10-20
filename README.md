@@ -1,23 +1,15 @@
 
 #### Hi there, I'm Eulene Vulegani 👋
-
-Welcome to my GitHub profile! I'm an aspiring data scientist with a deep passion for artificial intelligence and machine learning. I'm constantly learning and exploring the world of data to uncover insights and build intelligent systems.
-
-📚 About Me
-
-- 🌱 I'm currently a data science student, eager to expand my knowledge and skills.
-- 💡 I'm passionate about AI, machine learning, and their applications in solving real-world problems.
-- 🔍 I enjoy working on data analysis, predictive modeling, and natural language processing projects.
-- 🧠 I believe in the power of data-driven decision-making and the endless possibilities it offers.
-
+I'm a self-taught data scientist fueled by curiosity and a knack for solving puzzles. My background in engineering laid the foundation for my love of problem-solving and innovation.
+What excites me most is applying my skills to real-life problems. I enjoy delving into complex challenges and using data to uncover practical solutions. I firmly believe that data holds the key to solving some of the world's most pressing issues.
 🛠️ Skills & Tools
 
 I'm actively working with various tools and technologies in the data science and AI ecosystem, including:
 
-- **Programming:** Python, R
-- **Machine Learning:** Scikit-Learn, TensorFlow, PyTorch
+- **Programming:** Python, 
 - **Data Analysis:** Pandas, NumPy
 - **Data Visualization:** Matplotlib, Seaborn
+-  **Machine Learning:** Scikit-Learn, TensorFlow, PyTorch
 - **Natural Language Processing:** NLTK, spaCy
 - **Version Control:** Git, GitHub
 
