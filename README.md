@@ -1,17 +1,14 @@
 
 #### Hi there, I'm Eulene Vulegani 👋
-I'm a self-taught data scientist fueled by curiosity and a knack for solving puzzles. My background in engineering laid the foundation for my love of problem-solving and innovation.
-What excites me most is applying my skills to real-life problems. I enjoy delving into complex challenges and using data to uncover practical solutions. I firmly believe that data holds the key to solving some of the world's most pressing issues.
-🛠️ Skills & Tools
+ I'm a self-starter developer continuously honing skills in 
+ - HTML
+ - JavaScript
+ - React
+ - Node.js
+ - PostgreSQL
+ - MongoDB
+ - OpenAi (for AI integration)
 
-I'm actively working with various tools and technologies in the data science and AI ecosystem, including:
-
-- **Programming:** Python, 
-- **Data Analysis:** Pandas, NumPy
-- **Data Visualization:** Matplotlib, Seaborn
--  **Machine Learning:** Scikit-Learn, TensorFlow, PyTorch
-- **Natural Language Processing:** NLTK, spaCy
-- **Version Control:** Git, GitHub
 
 🤝 Let's Connect
 
