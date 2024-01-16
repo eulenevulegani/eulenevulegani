@@ -15,10 +15,6 @@
 I'm always open to connecting with fellow data enthusiasts, AI enthusiasts, or anyone interested in collaborating on exciting projects. You can reach me via:
 
 - **Email:** vuleganie@gmail.com
-- **LinkedIn:** eulene vulegani
-- **Twitter:** eulenevulegani
 
 Let's learn, explore, and innovate together! 😄
 ```
-
-
