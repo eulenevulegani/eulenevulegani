@@ -2,6 +2,7 @@
 #### Hi there, I'm Eulene Vulegani 👋
  I'm a self-starter developer continuously honing skills in 
  - HTML
+ - CSS
  - JavaScript
  - React
  - Node.js
