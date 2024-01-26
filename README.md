@@ -1,14 +1,13 @@
 
 #### Hi there, I'm Eulene Vulegani 👋
- I'm a self-starter developer continuously honing skills in 
- - HTML
- - CSS
- - JavaScript
- - React
- - Node.js
- - PostgreSQL
- - MongoDB
- - OpenAi (for AI integration)
+ I'm a self-starter data scientist continuously honing skills in 
+ - Python
+ - Microsoft PowerBI
+ - SQL
+ - Excel
+ - Machine learning 
+ - AI
+
 
 
 🤝 Let's Connect
